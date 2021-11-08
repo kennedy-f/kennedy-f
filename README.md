@@ -1,7 +1,9 @@
 <div align="center">
 <img alt="Github logo"src="https://camo.githubusercontent.com/e15e75521862be103c834df436a8f9e075c945e5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6475334a336358797a686a3735494f6776412f67697068792e676966"/>
+  <br />
+    <img alt="Wakatime" src="https://wakatime.com/badge/user/a940260d-9fc1-452b-85dc-fba755f99e04.svg" />
 
-# Olá, Eu sou o Kennedy Silva!
+# Olá, Eu sou o Kennedy!
 <p>
 <a href="https://github.com/kennedy-f" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 <a href="https://www.linkedin.com/in/kennedy-ferreira-da-silva/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
@@ -75,5 +77,6 @@
 
 <div align="center"> 
 <img src="https://github-readme-stats.vercel.app/api?username=kennedy-f&show_icons=true" alt="Natan Meira Github Stats" />
+
 </div>
 </details>
