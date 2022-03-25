@@ -3,7 +3,7 @@
   <br />
     <img alt="Wakatime" src="https://wakatime.com/badge/user/a940260d-9fc1-452b-85dc-fba755f99e04.svg" />
 
-# Olá, Eu sou o Kennedy!
+# Hello
 <p>
 <a href="https://github.com/kennedy-f" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 <a href="https://www.linkedin.com/in/kennedy-ferreira-da-silva/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
@@ -12,9 +12,9 @@
 
 </div>
 
-## 🛠 Tecnologias que trabalho/estudo
+## 🛠 Stacks I Work
 
-### ⌨ Linguagens / Frameworks
+### ⌨ Languages and Frameworks
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
@@ -31,14 +31,14 @@
 </p>
 
 
-### 🗄 Banco de Dados
+### 🗄 Database
 <p>
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-1e4c67?style=flat-square&logo=MySQL&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreeSQL-1e4c67?style=flat-square&logo=PostgreSQL&logoColor=white" />
 </p>
 
-### 💻 Servidor / Hospedagem
+### 💻 Servers and Hosting
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
@@ -49,7 +49,7 @@
 </p>
 
 
-### Outros
+### Others
 <p>
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
@@ -62,7 +62,7 @@
 
 
 
-<!-- ## 📕 Tecnologias que estou estudando -->
+<!-- ## 📕 Techs I am learning -->
 ## 📈 Stats
 <details>
 <summary> Top Langs </summary>
