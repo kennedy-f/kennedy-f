@@ -2,8 +2,9 @@
 <img alt="Github logo"src="https://camo.githubusercontent.com/e15e75521862be103c834df436a8f9e075c945e5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6475334a336358797a686a3735494f6776412f67697068792e676966" width="200px"/>
   <br />
     <img alt="Wakatime" src="https://wakatime.com/badge/user/a940260d-9fc1-452b-85dc-fba755f99e04.svg" />
+  
 
-# Hello
+
 <p>
 <a href="https://github.com/kennedy-f" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 <a href="https://www.linkedin.com/in/kennedy-ferreira-da-silva/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
@@ -65,9 +66,9 @@
 <!-- ## 📕 Techs I am learning -->
 ## 📈 Stats
 <details>
-<summary> Top Langs </summary>
+<summary> Top Langs (GIT tracking) </summary>
 
-<div align="center"> 
+<div> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennedy-f&X&layout=compact" alt="Natan Meira Top Langs" />
 </div>
 </details>
@@ -75,8 +76,24 @@
 <details>
 <summary> GitHub Stats</summary>
 
-<div align="center"> 
+<div > 
 <img src="https://github-readme-stats.vercel.app/api?username=kennedy-f&show_icons=true" alt="Natan Meira Github Stats" />
 
 </div>
+  
 </details>
+<details>
+  <summary> Top Langs (WakaTime tracking) </summary>          
+  <div>
+   <a href="https://wakatime.com"><img src="https://wakatime.com/share/@kennedy_f/33887d65-6aba-43bb-aef7-2604cbd9b439.png" /></a>
+  </div>
+</details>
+
+<details>
+  <summary> Operating system (WakaTime tracking) </summary>          
+  <div>
+    <a href="https://wakatime.com"><img src="https://wakatime.com/share/@kennedy_f/812e65e4-9bf2-42b1-8ee9-93f5c7557bfe.png" /></a>
+  </div>
+</details>
+
+
