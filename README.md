@@ -12,7 +12,7 @@
 
 </div>
 
-## 🛠 Stacks I Work
+## 🛠 My stack
 
 ### ⌨ Languages and Frameworks
 <p>
