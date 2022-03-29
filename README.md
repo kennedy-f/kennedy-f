@@ -83,14 +83,14 @@
   
 </details>
 <details>
-  <summary> Top Langs (WakaTime tracking) </summary>          
+  <summary> Time coding in Langs (WakaTime tracking) </summary>          
   <div>
    <a href="https://wakatime.com"><img src="https://wakatime.com/share/@kennedy_f/33887d65-6aba-43bb-aef7-2604cbd9b439.png" /></a>
   </div>
 </details>
 
 <details>
-  <summary> Operating system (WakaTime tracking) </summary>          
+  <summary> Time conding in operating system (WakaTime tracking) </summary>          
   <div>
     <a href="https://wakatime.com"><img src="https://wakatime.com/share/@kennedy_f/812e65e4-9bf2-42b1-8ee9-93f5c7557bfe.png" /></a>
   </div>
